@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: ghcr.io/kt-cloudnative/vue_crud_security
-  newTag: "20240206233917"
+- name: ghcr.io/heewon00/vue_crud_security
+  newTag: "edu_frontend"
