@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: ghcr.io/heewon00/vue_crud_security
-  newTag: "edu_frontend"
+  newTag: "20240214091449"
