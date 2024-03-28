@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: ghcr.io/heewon00/vue_crud_security
-  newTag: "20240214091449"
+  newTag: "20240328155006"
