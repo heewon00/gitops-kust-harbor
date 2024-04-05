@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: ghcr.io/heewon00/vue_crud_security
+        image: myharbor.apps.211-34-231-93.nip.io/edu/vue_crud_security
         imagePullPolicy: Always
         #image: shclub/edu12-3:v11
         env:
