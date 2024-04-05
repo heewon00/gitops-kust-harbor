@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: ghcr.io/heewon00/springboot_crud_security
+        image: myharbor.apps.211-34-231-93.nip.io/edu/vue_crud_security
         imagePullPolicy: Always
         env:
           - name: SPRING_PROFILES_ACTIVE
