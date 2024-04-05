@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: ghcr.io/heewon00/springboot_crud_security
+- name: myharbor.apps.211-34-231-93.nip.io/edu/vue_crud_security
   newTag: "20240214090740"
